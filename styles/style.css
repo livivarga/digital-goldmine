@@ -7,7 +7,7 @@
 :root {
   --main-bg-color: rgb(255, 255, 195);
   --header-bg-color: rgb(250, 210, 115);
-  --goldbrown: rgb(180, 130, 60);
+  --goldbrown: rgb(160, 110, 50);
   --darkbrown: rgb(95, 60, 15);
   --yellowgold: rgb(250, 190, 50);
   --white: rgb(247, 247, 247);
@@ -31,7 +31,7 @@ header {
 
 h1 {
   font-size: 1.6rem;
-  color: var(--goldbrown);
+  color: var(--darkbrown);
   text-align: center;
   margin-top: 10px;
   font-family: Georgia, Times, 'Times New Roman', serif;
@@ -113,7 +113,7 @@ h1 {
 }
 
 .gold-counter {
-  color: var(--goldbrown);
+  color: var(--darkbrown);
   font-family: 'Arial Narrow Bold', sans-serif;
 }
 
